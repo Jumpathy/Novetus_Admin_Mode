@@ -1,0 +1,31 @@
+{
+  "Config": {
+    "SelectedClient": "2011M",
+    "Map": "Dev - Baseplate2048.rbxl.bz2",
+    "CloseOnLaunch": "False",
+    "UserID": "87424828",
+    "PlayerName": "Jumpathy",
+    "RobloxPort": "53640",
+    "PlayerLimit": "12",
+    "UPnP": "False",
+    "DisabledAssetSDKHelp": "False",
+    "DiscordRichPresence": "False",
+    "MapPath": "C:\\\\Users\\\\isoto\\\\Desktop\\\\projects\\\\novetus\\\\admin_mode\\\\data\\\\maps\\\\Dev - Baseplate2048.rbxl.bz2",
+    "MapPathSnip": "maps\\\\Dev - Baseplate2048.rbxl.bz2",
+    "GraphicsMode": "0",
+    "QualityLevel": "0",
+    "LauncherStyle": "1",
+    "AssetSDKFixerSaveBackups": "True",
+    "AlternateServerIP": "",
+    "ShowServerNotifications": "False",
+    "ServerBrowserServerName": "Novetus",
+    "ServerBrowserServerAddress": "",
+    "Priority": "256",
+    "FirstServerLaunch": "True",
+    "NewGUI": "False",
+    "URIQuickConfigure": "True",
+    "BootstrapperShowUI": "True",
+    "WebProxyInitialSetupRequired": "True",
+    "WebProxyEnabled": "False"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Customization": {
+    "Hat1": "NoHat.rbxm",
+    "Hat2": "NoHat.rbxm",
+    "Hat3": "NoHat.rbxm",
+    "Face": "DefaultFace.rbxm",
+    "Head": "DefaultHead.rbxm",
+    "TShirt": "NoTShirt.rbxm",
+    "Shirt": "NoShirt.rbxm",
+    "Pants": "NoPants.rbxm",
+    "Icon": "NBC",
+    "Extra": "NoExtra.rbxm",
+    "HeadColorID": "24",
+    "TorsoColorID": "23",
+    "LeftArmColorID": "24",
+    "RightArmColorID": "24",
+    "LeftLegColorID": "119",
+    "RightLegColorID": "119",
+    "HeadColorString": "Color [A=255, R=245, G=205, B=47]",
+    "TorsoColorString": "Color [A=255, R=13, G=105, B=172]",
+    "LeftArmColorString": "Color [A=255, R=245, G=205, B=47]",
+    "RightArmColorString": "Color [A=255, R=245, G=205, B=47]",
+    "LeftLegColorString": "Color [A=255, R=164, G=189, B=71]",
+    "RightLegColorString": "Color [A=255, R=164, G=189, B=71]",
+    "ExtraSelectionIsHat": "False",
+    "ShowHatsInExtra": "False",
+    "CharacterID": ""
+  }
+}

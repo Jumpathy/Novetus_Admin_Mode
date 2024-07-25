@@ -1,0 +1,13 @@
+C:\Users\isoto\Desktop\roblox\novetus\Novetus_src\Novetus\Novetus.Bootstrapper\bin\Debug\NovetusBootstrapper.exe.config
+C:\Users\isoto\Desktop\roblox\novetus\Novetus_src\Novetus\Novetus.Bootstrapper\bin\Debug\NovetusBootstrapper.exe
+C:\Users\isoto\Desktop\roblox\novetus\Novetus_src\Novetus\Novetus.Bootstrapper\bin\Debug\NovetusBootstrapper.pdb
+C:\Users\isoto\Desktop\roblox\novetus\Novetus_src\Novetus\Novetus.Bootstrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\isoto\Desktop\roblox\novetus\Novetus_src\Novetus\Novetus.Bootstrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\isoto\Desktop\roblox\novetus\Novetus_src\Novetus\Novetus.Bootstrapper\obj\Debug\Novetus.Bootstrapper.csproj.AssemblyReference.cache
+C:\Users\isoto\Desktop\roblox\novetus\Novetus_src\Novetus\Novetus.Bootstrapper\obj\Debug\Novetus.Bootstrapper.NovetusLaunchForm.resources
+C:\Users\isoto\Desktop\roblox\novetus\Novetus_src\Novetus\Novetus.Bootstrapper\obj\Debug\Novetus.Bootstrapper.Properties.Resources.resources
+C:\Users\isoto\Desktop\roblox\novetus\Novetus_src\Novetus\Novetus.Bootstrapper\obj\Debug\Novetus.Bootstrapper.csproj.GenerateResource.cache
+C:\Users\isoto\Desktop\roblox\novetus\Novetus_src\Novetus\Novetus.Bootstrapper\obj\Debug\Novetus.Bootstrapper.csproj.CoreCompileInputs.cache
+C:\Users\isoto\Desktop\roblox\novetus\Novetus_src\Novetus\Novetus.Bootstrapper\obj\Debug\Novetus..8A88C9EF.Up2Date
+C:\Users\isoto\Desktop\roblox\novetus\Novetus_src\Novetus\Novetus.Bootstrapper\obj\Debug\NovetusBootstrapper.exe
+C:\Users\isoto\Desktop\roblox\novetus\Novetus_src\Novetus\Novetus.Bootstrapper\obj\Debug\NovetusBootstrapper.pdb
